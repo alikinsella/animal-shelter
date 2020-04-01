@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  color: darkslategray;
+}
+.dogs {
+  background-color: violet;
+  display: flex;
+  flex-wrap: wrap;
+  /* height: 700px; */
+}
+.cats {
+  background-color: salmon;
+  display: flex;
+  flex-wrap: wrap;
+  /* height: 700px; */
+}
+
+img {
+  width: 250px;
+  height: 200px;
+}
+.animal {
+  margin: 10px;
+  padding: 10px;
+  width: 250px;
+  /* float: left; */
+  background-color: white;
+}
+
+/* {
+  border: 1px solid red;
+}/
